@@ -14,4 +14,4 @@ For the view, I decided to do a GUI with a paged format.  The default page is th
 
 Running the Code
 
-Currently, the only way to run the code is to install mySQL and create a database.  Once this code is pulled, you can enter the url, username, and password for the mySQL server into the StartTasks class. (Some useful guides can be found here:   In the future I hope to find a way to make this process somewhat, if not fully, automated.
+Currently, the only way to run the code is to install mySQL and create a database.  Once this code is pulled, you can enter the url, username, and password for the mySQL server into the StartTasks class. (A useful guide on mySQL setup can be found here: https://www.ntu.edu.sg/home/ehchua/programming/java/JDBC_Basic.html).  In the future I hope to find a way to make this process somewhat, if not fully, automated.
